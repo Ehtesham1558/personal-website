@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+h1{
+    font-family: 'Special Elite', cursive;
+    font-size: 30px;
+    padding: 15px 0px;
+}
+
+section{
+    height: 500px;
+}
+.name-highlight{
+    color: darkgoldenrod;
+}
+
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.half-width p{
+    margin-bottom: 30px;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg ,lightSalmon,tomato);
+    margin-right: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: ivory;
+    font-weight: 700;
+}
+
+.middle-banner{
+    padding-top: 100px;
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
